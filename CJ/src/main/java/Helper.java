@@ -2,8 +2,8 @@
 public class Helper {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+			Utility u=new Utility();
+			System.out.println(u.getSysDate());
+		}
 
 }
